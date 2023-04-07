@@ -1,0 +1,36 @@
+.elementor-kit-1140{--e-global-color-primary:#1569AE;--e-global-color-secondary:#B6C9DB;--e-global-color-text:#545454;--e-global-color-accent:#FDD247;--e-global-color-153e7f27:#6EC1E4;--e-global-color-426c9b41:#54595F;--e-global-color-4a94f5fd:#7A7A7A;--e-global-color-74b2f2c1:#61CE70;--e-global-color-e14eccf:#4054B2;--e-global-color-1b86d383:#23A455;--e-global-color-79f4bec2:#000;--e-global-color-b776a32:#FFF;--e-global-color-d72d6cf:#F5F1EB;--e-global-color-cf73314:#000000CC;--e-global-color-0537ef3:#EB6841;--e-global-color-d3d820e:#F8AA52;--e-global-color-86af4aa:#FFC77A;--e-global-color-a2a191e:#9EC583;--e-global-color-13d91c6:#70D2D7;--e-global-color-e01d3ca:#3FC1C8;--e-global-color-0ca3ad2:#A79C88;--e-global-color-783a9e4:#414243;--e-global-color-381a208:#707372;--e-global-color-865c0b8:#8A8D8F;--e-global-color-c34ff1c:#F5F1EB;--e-global-color-b87ceea:#F69221;--e-global-color-eaa1749:#FF26F7;--e-global-color-9bf7488:#F8F5F0;--e-global-typography-primary-font-family:"Montserrat";--e-global-typography-primary-font-size:50px;--e-global-typography-primary-font-weight:400;--e-global-typography-primary-letter-spacing:-0.2px;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-size:24px;--e-global-typography-secondary-font-weight:500;--e-global-typography-text-font-family:"Source Sans Pro";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-weight:500;--e-global-typography-6145747-font-family:"Montserrat";--e-global-typography-6145747-font-size:20px;--e-global-typography-6145747-font-weight:500;--e-global-typography-6145747-text-transform:uppercase;--e-global-typography-6145747-letter-spacing:4.4px;--e-global-typography-f5bf087-font-family:"Montserrat";--e-global-typography-f5bf087-font-size:16px;--e-global-typography-a777341-font-family:"Montserrat";--e-global-typography-a777341-font-size:21px;--e-global-typography-a777341-font-weight:500;--e-global-typography-a777341-letter-spacing:0.1px;--e-global-typography-9ba631a-font-family:"Helvetica Neue";--e-global-typography-9ba631a-font-size:18px;--e-global-typography-9ba631a-font-weight:500;}.elementor-kit-1140 h1{font-family:"Tahoma", Sans-serif;font-size:75px;font-weight:600;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1500px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1025px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:768px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Helvetica Neue';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2021/02/Helvetica-Neu-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Helvetica Neue';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2021/02/HelveticaNeue-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Helvetica Neue';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2021/02/HelveticaNeue-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Helvetica Neue';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2021/02/HelveticaNeue-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Helvetica Neue';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2021/02/HelveticaNeueIt.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
