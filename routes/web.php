@@ -38,9 +38,9 @@ Route::get('contato', function () {
 // })->name("send-email");
 
 Route::post('info', function(){
-  \Illuminate\Support\Facades\Mail::send(
-    new \App\Mail\newLaravelTips()
-  );
+  // \Illuminate\Support\Facades\Mail::send(
+  //   new \App\Mail\newLaravelTips()
+  // );
   return redirect()->route('info')->with('status', 'Email Enviado com Sucesso!');
   // return ;
 })->name("send-email");

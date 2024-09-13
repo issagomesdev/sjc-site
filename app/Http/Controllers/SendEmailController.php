@@ -9,7 +9,7 @@ class SendEmailController extends Controller
   public function send(Request $request)
   {
 
-      dd($request->all());
+      // dd($request->all());
 
       return redirect()->route('info')
       ->with('message', 'Email enviado com sucesso');
