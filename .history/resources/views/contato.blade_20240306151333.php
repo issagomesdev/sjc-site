@@ -7,7 +7,9 @@
 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&family=Montserrat:wght@500&display=swap" rel="stylesheet">
 
 <div class="site">
-    @include('layouts.menu')
+    <header class="navbar navbar-fixed-top" role="banner">
+      @include('layouts.menu')
+    </header>
 
     <section id="contact">
         <div class="container">
