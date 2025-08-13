@@ -3,11 +3,11 @@
 [HTML5__BADGE]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3__BADGE]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://sjc.byissa.tech
+[PROJECT__URL]: https://sjc.byissa.dev
 
 <h1 align="center" style="font-weight: bold;">🌐 SJC Sistemas — Institutional Website </h1>
 
-![Preview do site](https://sjc.byissa.tech/imagens/preview.png)
+![Preview do site](https://sjc.byissa.dev/imagens/preview.png)
 
 ![Laravel][LARAVEL__BADGE] ![HTML5][HTML5__BADGE] ![JavaScript][JAVASCRIPT__BADGE] ![CSS3][CSS3__BADGE]
 
